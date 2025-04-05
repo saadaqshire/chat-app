@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=/Users/saadaqshire/projects/web-socket/server/chat/target/debug/build/mime_guess-8d539cdee242ca8b/out/mime_types_generated.rs
